@@ -3,4 +3,4 @@
 console.log("This creates block of code.")
 ```
 
-[I'm google]{https://google.com}
+[I'm google](https://google.com)
